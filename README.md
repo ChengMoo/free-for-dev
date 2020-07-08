@@ -270,7 +270,7 @@ Table of Contents
   * [contentful.com](https://www.contentful.com/) — Headless CMS. Content management and delivery APIs in the cloud. Comes with one free micro space that includes 10 users, 5000 records, 24 Content Types, 2 locales.
   * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, custom types, assets, and locales. Everything that you need for your next project. Bigger free plans available for Open Content/Open Source projects.
   * [sanity.io](https://www.sanity.io/) – Hosted backend for structured content with customizable MIT licensed editor built with React. Unlimited projects. 3 users, 2 datasets, 500k API CDN requests, 5GB assets for free per project
-  * [kontent.ai](https://www.kontent.ai) - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Starter plan provides 3 users with unlimited projects, 5000 content items, 2 languages. Larger plans available to meet your needs.
+  * [kontent.ai](https://www.kontent.ai) - A Content-as-a-Service platform that gives you all the headless CMS benefits while empowering marketers at the same time. Developer plan provides 2 users with unlimited projects with 2 environments for each, 500 content items, 2 languages with Delivery and Management API, and Custom elements support. Larger plans available to meet your needs.
   * [Forestry.io/](https://forestry.io/) — Headless CMS. Give your editors the power of Git. Create and edit Markdown-based content with ease. Comes with three free sites that includes 3 editors, Instant Previews. Integrates with blogs hosted on Netlify/GitHubpages/ elsewhere
 
 ## Code Quality
@@ -461,6 +461,7 @@ Table of Contents
   * [keychest.net/speedtest](https://keychest.net/speedtest) - Independent speed test and TLS handshake latency test against Digital Ocean
   * [letsmonitor.org](https://letsmonitor.org) - SSL monitoring, free for up to 5 monitors
   * [loader.io](https://loader.io/) — Free load testing tools with limitations
+  * [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.
   * [nodequery.com](https://nodequery.com/) — Free basic server monitors up to 10 servers
   * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
   * [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
@@ -474,7 +475,7 @@ Table of Contents
   * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
   * [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
-  * [nixstats.com](https://nixstats.com) - Free for one server. E-Mail Notifications, public status page, 60 second interval and more.
+  * [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for 5 websites, 60 second intervals, public statuspage.
 
 ## Crash and Exception Handling
 
@@ -549,6 +550,7 @@ Table of Contents
 ## Forms
 
   * [99inbound.com](https://www.99inbound.com/) - Build forms and share them online. Get an email or Slack message for each submission. Free plan has 2 forms, 100 entries per month, basic email & Slack.
+  * [Formcake.com](https://formcake.com) - Form backend for devs, free plan allows unlimited forms, 100 submissions, Zapier integration. No libraries or dependencies required.
   * [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint, Free plan allows 100 submissions per month.
   * [formingo.co](https://www.formingo.co/)- Easy HTML forms for static websites, get started for free without registering an account. Free plan allows 500 submissions per month, customizable reply-to email address.
   * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications.
@@ -603,12 +605,13 @@ Table of Contents
   * [K8Spin](https://k8spin.cloud) - Managed Kubernetes namespace service designed for developers. Free developer accounts come with with 100 mCore of CPU, 128MB of RAM.
   * [ZARVIS](https://zarvis.ai) - Free managed Kubernetes namespace for open source Github project. Free 1GB memory and 1 vCPU.
   * [mendix.com](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
-  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 4GB of RAM, 2 CPUs and 10GB Disk space.
+  * [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for developers. Free developer accounts come with 8GB of RAM, 4 CPUs and 5GB Disk space. The apps sleep after 24 hours of inactivity.
   * [outsystems.com](https://www.outsystems.com/) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow, based on any trigger. Workflows are code, which you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
   * [pythonanywhere.com](https://www.pythonanywhere.com/) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411) — The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps
+  * [staroid.com](https://staroid.com) - Managed Kubernetes namespace service designed to fund open source developers. Free 8 CPUs and 16GB of RAM namespace to test branches and pull requests of public repository. Free test namespace shutdown every 30 minutes. Maximum 2 concurrent test namespaces.
   * [workers.dev](https://workers.dev) - Deploy serverless code for free on Cloudflare's global network. 100,000 free requests per day with a workers.dev subdomain.
   * [vercel.com](https://vercel.com/) — Serverless platform with support for multiple languages (including static sites) and single command deployment. Free tier includes SSL, unlimited (Fair Use) bandwidth, 100 deployments.
   * [Platform9](https://platform9.com/) - Managed Kubernetes service designed for developers. Free developer accounts come with up to 3 clusters & 20 nodes cluster.
@@ -844,6 +847,7 @@ Table of Contents
   * [whimsical.com](https://whimsical.com/) - Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
+  * [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
 
 ## Data Visualization on Maps
 
