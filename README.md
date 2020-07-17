@@ -75,7 +75,7 @@ Table of Contents
     * BigQuery - 1 TB of querying per month, 10 GB of storage each month
     * Cloud Build - 120 build-minutes per day
     * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-    * Full, detailed list - https://cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits
+    * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
     * Amazon DynamoDB - 25GB NoSQL DB
@@ -101,6 +101,7 @@ Table of Contents
     * Notification Hubs - 1 million push notifications
     * Bandwidth - 5GB egress per month
     * Azure Cosmos DB - 5GB storage and 400 RUs of provisioned throughput for 1 year
+    * [Azure Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/?WT.mc_id=free-for-dev-github-wachegha) — Build, deploy and host static apps and serverless functions, with free SSL, Authenticationa/Authorisations and custom domains
     * Full, detailed list - https://azure.microsoft.com/en-us/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
@@ -436,6 +437,7 @@ Table of Contents
   * [POEditor](https://poeditor.com/) — Free up to 1000 strings
   * [transifex.com](https://www.transifex.com/) — Free for Open Source
   * [webtranslateit.com](https://webtranslateit.com/) — Free up to 500 strings
+  * [weblate.org](https://weblate.org/) — It's free for libre projects up to 10,000 string source for the free tier, and Unlimited Self-hosted on-premises.
 
 ## Monitoring
 
@@ -534,6 +536,7 @@ Table of Contents
   * [testmail.app](https://testmail.app/) - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API. 100 emails/month free forever, unlimited free for open source.
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
+  * [Validator.Pizza](https://www.validator.pizza/) — Free API to detect disposable emails
   * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
   * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
@@ -755,6 +758,7 @@ Table of Contents
    * [funretro.io](https://www.funretro.io/) — Free simple and intuitive sprint retrospective tool
    * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
    * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
+   * [gleek.io](https://www.gleek.io) — Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyword.
    * [gliffy.com](https://www.gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira and Confluence. 5 diagrams and 2 MB free
    * [GraphQL Inspector](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector ouputs a list of changes between two GraphQL schemas. Every change is precisely explained and marked as breaking, non-breaking or dangerous.
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
@@ -791,7 +795,7 @@ Table of Contents
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
 
 ## Storage and Media Processing
-
+   * [sirv.com](https://sirv.com/) — Smart Image CDN with on-the-fly image optimization and resizing. Free tier includes 500 MB of storage and 2 GB bandwidth.
    * [image4.io](https://image4.io/) — Image upload, powerful manipulations, storage and delivery for websites and apps, with SDK's, integrations and migration tools. Free tier includes 25 credits. 1 credit is equal to 1 GB of CDN usage, 1GB of storage or 1000 image transformations.
    * [cloudimage.com](https://cloudimage.com/) — Full image optimization and CDN service with 1500+ Points of Presence around the world. A variety of image resizing, compression, watermarking functions. Open source plugins for responsive images, 360 image making and image editing. Free monthly plan with 25GB of CDN traffic and 25GB of cache storage and unlimited transformations.
    * [cloudinary.com](https://cloudinary.com/) — Image upload, powerful manipulations, storage and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7,500 images/month, 2 GB storage, 5 GB bandwidth
@@ -848,6 +852,8 @@ Table of Contents
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
   * [Pixelixe](https://pixelixe.com/) — Create and edit engaging and unique graphics and images online.
   * [Responsively App](https://responsively.app) - A free dev-tool for faster and precise responsive web application development.
+  * [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
+  * [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at https://github.com/xlayers/xlayers)
 
 ## Data Visualization on Maps
 
